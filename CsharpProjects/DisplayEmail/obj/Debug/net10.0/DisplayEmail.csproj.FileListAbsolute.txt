@@ -1,0 +1,15 @@
+C:\Users\gogob\DisplayEmail\CsharpProjects\DisplayEmail\bin\Debug\net10.0\DisplayEmail.exe
+C:\Users\gogob\DisplayEmail\CsharpProjects\DisplayEmail\bin\Debug\net10.0\DisplayEmail.deps.json
+C:\Users\gogob\DisplayEmail\CsharpProjects\DisplayEmail\bin\Debug\net10.0\DisplayEmail.runtimeconfig.json
+C:\Users\gogob\DisplayEmail\CsharpProjects\DisplayEmail\bin\Debug\net10.0\DisplayEmail.dll
+C:\Users\gogob\DisplayEmail\CsharpProjects\DisplayEmail\bin\Debug\net10.0\DisplayEmail.pdb
+C:\Users\gogob\DisplayEmail\CsharpProjects\DisplayEmail\obj\Debug\net10.0\DisplayEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogob\DisplayEmail\CsharpProjects\DisplayEmail\obj\Debug\net10.0\DisplayEmail.AssemblyInfoInputs.cache
+C:\Users\gogob\DisplayEmail\CsharpProjects\DisplayEmail\obj\Debug\net10.0\DisplayEmail.AssemblyInfo.cs
+C:\Users\gogob\DisplayEmail\CsharpProjects\DisplayEmail\obj\Debug\net10.0\DisplayEmail.csproj.CoreCompileInputs.cache
+C:\Users\gogob\DisplayEmail\CsharpProjects\DisplayEmail\obj\Debug\net10.0\DisplayEmail.sourcelink.json
+C:\Users\gogob\DisplayEmail\CsharpProjects\DisplayEmail\obj\Debug\net10.0\DisplayEmail.dll
+C:\Users\gogob\DisplayEmail\CsharpProjects\DisplayEmail\obj\Debug\net10.0\refint\DisplayEmail.dll
+C:\Users\gogob\DisplayEmail\CsharpProjects\DisplayEmail\obj\Debug\net10.0\DisplayEmail.pdb
+C:\Users\gogob\DisplayEmail\CsharpProjects\DisplayEmail\obj\Debug\net10.0\DisplayEmail.genruntimeconfig.cache
+C:\Users\gogob\DisplayEmail\CsharpProjects\DisplayEmail\obj\Debug\net10.0\ref\DisplayEmail.dll
