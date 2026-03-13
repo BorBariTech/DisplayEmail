@@ -15,5 +15,3 @@ shlawrence@hayworth.com
 davaldes@hayworth.com
 
 It was designed using VS Code
-
-*/
